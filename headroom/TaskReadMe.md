@@ -39,6 +39,6 @@ The hand-drawn sketch is contained below.
 
 ![Handdrawn neck](/headroom/neck/neck-handsketch-old.jpg "Neck-old")
 
-Good luck!
+Any questions, feel free to ping our team at: cartheur-research@pm.me
 
 cartheur
