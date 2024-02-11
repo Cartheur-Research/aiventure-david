@@ -1,12 +1,12 @@
+## A new robotic head for our david bipedal child model.
+
 August 2023
 
-A new robotic head for our david bipedal child model.
-
-Background
+### Background
 
 A bipedal robot one could engineer by a 3D printer presented an opportunity to test the limits of emotional toys. While it works in principle, parts of its design is at odds with the company philosophy of its idea of how to get tighter integration of people and robots, especially in an emotional capacity.
 
-Task
+### Task
 
 The head is wholly inappropriate for use because:
 
@@ -37,3 +37,4 @@ The hand-drawn sketch is contained below.
 
 Good luck!
 
+cartheur
