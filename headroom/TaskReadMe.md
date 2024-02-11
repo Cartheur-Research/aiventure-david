@@ -8,10 +8,14 @@ A bipedal robot one could engineer by a 3D printer presented an opportunity to t
 
 ### Task
 
-The head is wholly inappropriate for use because:
+Once manufacturing the bipedal prototype, we were immediately unsatisfied with the head:
+
+![head](/headroom/status/current.png)
+
+This head is wholly inappropriate for use because:
 
 * It has no face
-* Can work if fitted to existing animatronic hardware that exemplifies the deign of “fred", featured in cameo at https://emotional.toys
+* Can work if fitted to existing animatronic hardware that exemplifies the deign of “fred", featured in cameo [here](https://emotional.toys)
 
 The point where the AX12 motor (top mounting in the case - see the solidworks file) and the original head (see the solidworks file "old-head") join needs to be reused for the completely new head from this mechanical attachment. Another part of the head will mount to an existing face that has a set of servo motors, with a dimension shown in the photo "headcap-front-x -y".
 
@@ -33,7 +37,7 @@ There is a part of the design that is unsure if it needs to be implemented in th
 
 The hand-drawn sketch is contained below.
 
-![Handdrawn neck](/neck/neck-handsketch-old.jpg "Neck-old")
+![Handdrawn neck](/headroom/neck/neck-handsketch-old.jpg "Neck-old")
 
 Good luck!
 
