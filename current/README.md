@@ -10,4 +10,4 @@ For reference, the [XU-4](https://magazine.odroid.com/odroid-xu4) manual is avai
 
 `sudo apt install git espeak alsa-utils build-essential mplayer gcc automake autoconf libtool libasound2-dev`
 
-5. Ensure connecting to the wifi, in lieu of connecting a cable
+5. Ensure connecting to the wifi, in lieu of connecting a cable is an optional usecase, with a USB adapter. In this case, a tp-link [T2U](https://www.tp-link.com/us/support/download/archer-t2u/)
