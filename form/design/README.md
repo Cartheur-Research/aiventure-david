@@ -3,7 +3,7 @@
 June 2023
 Notes regarding the head redesign for the david model
 
-We have a deadline of two years to get it ready for show. However, there is a lot of work to be done and testing according to the algorithmic techniques revealed in the haden research initiatives.
+We have a deadline of _two years_ to get it ready for show. However, there is a lot of work to be done and testing according to the algorithmic techniques revealed in the haden research initiatives.
 
 * 12.06.2023
     - 2136: A mastery of Solidworks is critical to the addition of the face and adding the computer to the head, so that it can have a degree of autonomy.
@@ -16,4 +16,4 @@ We have a deadline of two years to get it ready for show. However, there is a lo
 * 26.07.2023
     - 1914: Room-temperature superconductor paper published.
 * 11.04.2024
-    - 1413: Renewed effort to push the PoC toward testing.
+    - 1413: Renewed effort to push the PoC toward testing. Almost one year has expired.
