@@ -49,6 +49,6 @@ this david, or,...
 
 this david.
 
-### Notes
+### Errata
 
-Gather the story.
+As required.
