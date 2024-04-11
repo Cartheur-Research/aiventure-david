@@ -41,7 +41,7 @@ The term *aiventure* means "adventure in AI". The addition of the suffix *david*
 
 This david,...
 
-[David two](/media/david-2.jpg "this david, or,")
+![David two](/media/david-2.jpg "this david, or,")
 
 this david, or,...
 
